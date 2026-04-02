@@ -1,0 +1,38 @@
+## .NET
+bin/
+obj/
+
+## User-specific
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+## NuGet
+**/[Pp]ackages/*
+*.nupkg
+.nuget/
+
+## VS
+.vs/
+*.csproj.user
+
+## Rider
+.idea/
+
+## Environment
+appsettings.Development.json
+*.env
+
+## Logs
+*.log
+
+## Docker
+docker-compose.override.yml
